@@ -9,12 +9,12 @@ Ofcourse not all topics are possible to integreate, for this reason we have to p
 
 **todo**: Replace with correct timelines 
 
-* 3/4/2022 - This proposal is published on GitHub
+* 3/11/2022 - This proposal is published on GitHub
 * 3/11/2022 - Closing public feedback round
 * 3/18/2022 - Communicating the planned topics to the community and starting implementing forward compatibiliy in 6.4.x
-* 9/3/2022 - First RC
-* 10/3/2022 - Second RC
-* 11/3/2022 - GA
+* TBD - First RC
+* TBD - Second RC
+* TBD - GA
 
 ## Proposed topics
 
