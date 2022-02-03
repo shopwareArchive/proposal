@@ -7,20 +7,10 @@ assignees: ''
 
 ---
 
-**Priority**: low/middle/high
 **Effort**: low/middle/high
-**Forward Compatible**: Yes/No
 
-### Description
-
+### Description: 
 
 ### Benefits
 
-
-### Breaks
-
-
-### Timeline
-
-
-### Thoughts
+### Break strategy
