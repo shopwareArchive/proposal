@@ -8,14 +8,12 @@ For this reason please use the reactions on the issues to upvote it.
 
 ## Timeline
 
-**todo**: Replace with correct timelines 
-
-* 3/11/2022 - This proposal is published on GitHub
-* 3/18/2022 - Closing public feedback round
-* TBD - Communicating the planned topics to the community and starting implementing forward compatibiliy in 6.4.x
-* TBD - First RC
-* TBD - Second RC
-* TBD - GA
+* 02/03/2022 - This proposal is publish internally
+* 02/11/2022 - This proposal is published on GitHub
+* 02/25/2022 - Closing public feedback round
+* 03/04/2022 - Communicating the planned topics to the community and starting implementing forward compatibiliy in 6.4.x
+* TBD ~08/--/2022 - v6.5.0.0 RC
+* TBD ~11/--/2022 - GA
 
 ## Proposed topics
 
