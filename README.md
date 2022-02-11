@@ -10,12 +10,12 @@ Ofcourse not all topics are possible to integrate, for this reason we have to pr
 
 ## Timeline
 
-* 02/03/2022 - This proposal is publish internally
-* 02/11/2022 - This proposal is published on GitHub
-* 02/25/2022 - Closing public feedback round
-* 03/04/2022 - Communicating the planned topics to the community and starting implementing forward compatibiliy in 6.4.x
-* TBD ~08/--/2022 - v6.5.0.0 RC
-* TBD ~11/--/2022 - GA
+* 2022-02-03 - This proposal is publish internally
+* 2022-02-11 - This proposal is published on GitHub
+* 2022-02-25 - Closing public feedback round
+* 2022-03-04 - Communicating the planned topics to the community and starting implementing forward compatibiliy in 6.4.x
+* TBD 2022-08 - v6.5.0.0 RC
+* TBD 2022-11 - GA
 
 ## Proposed topics
 
