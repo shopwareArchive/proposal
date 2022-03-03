@@ -20,3 +20,7 @@ Ofcourse not all topics are possible to integrate, for this reason we have to pr
 ## Proposed topics
 
 All topics can be found in the Github Issues
+
+## Board
+
+The board can be found [here](https://github.com/orgs/shopware/projects/11) with the current prioritized topics.
