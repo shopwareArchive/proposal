@@ -14,8 +14,8 @@ Ofcourse not all topics are possible to integrate, for this reason we have to pr
 * 2022-02-11 - This proposal is published on GitHub
 * 2022-02-25 - Closing public feedback round
 * 2022-03-04 - Communicating the planned topics to the community and starting implementing forward compatibiliy in 6.4.x
-* TBD 2022-08 - v6.5.0.0 RC
-* TBD 2022-11 - GA
+* TBD 2023-02 - v6.5.0.0 RC
+* TBD 2022-04 - GA
 
 ## Proposed topics
 
